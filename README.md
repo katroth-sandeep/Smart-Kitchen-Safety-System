@@ -59,7 +59,7 @@ The project is tested in Proteus to observe:
 - LED response above and below the configured threshold
 
 ## Project Images
-
+![block diagram](block_diagram.jpg)
 ![Result](r1.jpg)
 ![Result](r2.jpg)
 ![Result](r3.jpg)
