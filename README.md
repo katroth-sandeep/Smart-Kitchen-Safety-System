@@ -57,7 +57,7 @@ The project is tested in Proteus to observe:
 - Temperature readings on the LCD
 - Gas sensor readings
 - LED response above and below the configured threshold
-
+![simulation](proteas_circuit.jpg)
 ## Project Images
 ![block diagram](block_diagram.jpg)
 ![Result](r1.jpg)
